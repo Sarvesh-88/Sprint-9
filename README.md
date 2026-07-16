@@ -3,7 +3,7 @@ Cine-Stream - Next.js Migration
 A modern, SEO-optimized Movie Discovery application upgraded for the Track A: Frontend Specialists requirements. The application migrates the previous Sprint 08 architecture to a Next.js 15 environment, utilizing Server-Side Rendering (SSR) and the new App Router.
 
 Important Links
-Live Website: https://your-vercel-link.vercel.app/
+Live Website:https://sprint-9-red.vercel.app/
 
 Demo Video: https://your-drive-link/
 
